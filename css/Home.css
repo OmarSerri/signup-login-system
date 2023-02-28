@@ -1,0 +1,26 @@
+body
+{
+    font-family: 'segoe ui light';
+    color: white;
+    background-color: rgb(36, 53, 63);
+}
+.navbar
+{
+    box-shadow: -5px 2px 54px -9px rgb(0 0 0);
+    color: #212529;
+}
+.container
+{
+    height: 100vh;
+}
+.row
+{
+    background-color: rgb(36, 53, 63);
+    box-shadow: rgb(0, 0, 0) -5px 2px 54px -9px; 
+    width: 40%;
+}
+.navbar button a
+{
+    text-decoration: none;
+    color: white;
+}

@@ -1,0 +1,24 @@
+body
+{
+    font-family: 'segoe ui light';
+    color: white;
+    background-color: rgb(36, 53, 63);
+}
+.container h1
+{
+    color: rgb(23, 162, 184);
+}
+.row
+{
+    background-color: rgb(36, 53, 63);
+    box-shadow: rgb(0, 0, 0) -5px 2px 54px -9px; 
+}
+.inputs a
+{
+    text-decoration: none;
+    color: white;
+}
+.inputs a:hover
+{
+    text-decoration:underline;
+}
